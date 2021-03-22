@@ -1,0 +1,16 @@
+#helloLabel {
+  width: 100%;
+  text-align: center;
+}
+
+#numberInput {
+  width: 100%;
+}
+
+#btnGuess {
+  width: 100%;
+}
+
+#btnExit {
+  width: 100%;
+}
